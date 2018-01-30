@@ -38,21 +38,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cockpit.component.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="cockpit.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+            <state relative-caret-position="450">
+              <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cockpit.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cockpit.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="42" />
+            <state relative-caret-position="200">
+              <caret line="8" column="63" lean-forward="false" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -92,8 +92,8 @@
         <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/.gitignore" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/server-element/server-element.component.ts" />
-        <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts" />
         <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.html" />
+        <option value="$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts" />
       </list>
     </option>
   </component>
@@ -202,12 +202,12 @@
       <updated>1516916194338</updated>
       <workItem from="1516916195558" duration="5618000" />
       <workItem from="1516982908090" duration="7707000" />
-      <workItem from="1517241005927" duration="6790000" />
+      <workItem from="1517241005927" duration="8535000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20115000" />
+    <option name="totallyTimeSpent" value="21860000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2869" y="-11" width="2902" height="1582" extended-state="6" />
@@ -382,18 +382,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts">
+    <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        <state relative-caret-position="200">
+          <caret line="8" column="63" lean-forward="false" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.html">
+    <entry file="file://$PROJECT_DIR$/cmp-databinding-start/src/app/cockpit/cockpit.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="42" />
+        <state relative-caret-position="450">
+          <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
           <folding />
         </state>
       </provider>
